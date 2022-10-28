@@ -4,3 +4,5 @@ Download Virtual Box or VMware workstation virtual machine software.
 Note: if you have core i3 or i5 upto 6th generation 
 then use Ubuntu 20 Linux.
 Second important thing is how to 
+/lhe_reader_non_decayed madgraph/MG5_aMC_v3_4_1/scan_tanb_pp_h1_xdxd/Events/run_03/unweighted_events
+root -l  madgraph/MG5_aMC_v3_4_1/scan_tanb_pp_h1_xdxd/Events/run_03/unweighted_events.root
